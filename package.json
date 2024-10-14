@@ -1,0 +1,23 @@
+{
+  "name": "package-math",
+  "version": "0.0.0",
+  "description": "My math package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viniivg/package-math.git"
+  },
+  "homepage": "https://github.com/viniivg/package-math#readme",
+  "keywords": [
+    "math"
+  ],
+  "author": "Vini Guedes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniivg/package-math/issues"
+  },
+  "type": "module"
+}
