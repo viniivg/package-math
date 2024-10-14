@@ -1,5 +1,5 @@
 {
-  "name": "package-math",
+  "name": "rn-package-math",
   "version": "0.0.0",
   "description": "My math package",
   "main": "index.js",
