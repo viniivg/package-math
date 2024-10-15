@@ -1,4 +1,4 @@
-import validateCpf from 'validate-cpf';
+import validateCpf from 'validar-cpf';
 
 export function multiply(a, b) {
     return a * b;
