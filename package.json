@@ -1,8 +1,9 @@
 {
   "name": "rn-package-math",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "description": "My math package",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "node test.js"
   },
